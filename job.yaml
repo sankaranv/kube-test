@@ -88,16 +88,16 @@ spec:
     # Entry for the other folders mentioned above.
     - mountPath: /tools
       name: tools
-    - mountPath: /datasets/data1
-      name: data1
-    - mountPath: /datasets/data2
-      name: data2
+#    - mountPath: /datasets/data1
+#      name: data1
+#    - mountPath: /datasets/data2
+#      name: data2
 #    - mountPath: /datasets/data3
 #      name: data3
     - mountPath: /scratch/scratch1
       name: scratch1
-    - mountPath: /scratch/scratch2
-      name: scratch2
+#    - mountPath: /scratch/scratch2
+#      name: scratch2
     - mountPath: /usr/local/nvidia/bin
       name: nvbin
     - mountPath: /usr/local/nvidia/lib
